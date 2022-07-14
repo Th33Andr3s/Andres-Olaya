@@ -9,7 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/th33andr3s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="th33andr3s" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrés felipe olaya cadena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrés felipe olaya cadena" height="30" width="40" /></a>
 <a href="https://instagram.com/th3andr3s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="th3andr3s" height="30" width="40" /></a>
 </p>
 
